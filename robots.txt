@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-78gbp3.icl-growingsolutions.com/sitemap.xml
